@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools==64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pip-dependabot-test"
+description = "A blank package for dependabot testing"
+version = "1.0.0"
+
+dependencies = [
+    'pyyaml==5.4.1'
+]

@@ -8,5 +8,5 @@ description = "A blank package for dependabot testing"
 version = "1.0.0"
 
 dependencies = [
-    'pyyaml==5.4.1'
+    'pyyaml==6.0.1'
 ]
